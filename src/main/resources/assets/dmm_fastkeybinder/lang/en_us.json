@@ -1,0 +1,17 @@
+{
+  "text.autoconfig.dmm_fastkeybinder.title": "DMM Fast Key Binder Settings",
+  
+  "text.autoconfig.dmm_fastkeybinder.option.keyBindings": "Key Bindings List",
+  "text.autoconfig.dmm_fastkeybinder.option.keyBindings.@Tooltip": "Manage your custom key bindings here.",
+  
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry": "Key Binding Entry",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.name": "Name",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.command": "Command",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.command.@Tooltip[0]": "Enter command (e.g., gamemode creative)",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.command.@Tooltip[1]": "Leading '/' is optional.",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.key": "Trigger Key",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.active": "Active",
+
+  "key.dmm_fastkeybinder.open_config": "Open Config Screen",
+  "category.dmm_fastkeybinder": "DMM Fast Key Binder"
+}

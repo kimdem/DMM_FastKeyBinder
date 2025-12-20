@@ -1,0 +1,33 @@
+# Gradle
+.gradle/
+build/
+
+# Fabric
+run/
+logs/
+debug/
+screenshots/
+config/
+mods/
+resourcepacks/
+saves/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+gen/
+
+# MacOS
+.DS_Store
+
+# Build artifacts (Jars should be in Releases, not commits)
+*.jar
+
+# License
+!LICENSE
+
+# Gradle Wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradlew
+!gradlew.bat

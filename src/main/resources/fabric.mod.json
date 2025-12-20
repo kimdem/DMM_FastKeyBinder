@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "dmm_fastkeybinder",
+  "version": "${version}",
+  "name": "DMM_FastKeyBinder",
+  "description": "마인크래프트 Fabric 1.21.4 버전의 간단한 키 바인딩 모드입니다. F12를 눌러 커맨드를 설정하여 편하게 사용해보시길 바랍니다.\n\nA lightweight command-binding utility for Minecraft Fabric 1.21.4. Easily manage and execute your favorite commands by pressing F12 to open the configuration menu.",
+  "authors": ["DevDem"],
+  "contact": {
+    "homepage": "https://github.com/kimdem/DMM_FastKeyBinder"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/dmm_fastkeybinder/DMM_FastKeyBinder.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.dmm.fastkeybinder.client.FastKeyBinderClient"
+    ],
+    "main": [
+      "com.dmm.fastkeybinder.FastKeyBinder"
+    ],
+    "modmenu": [
+      "com.dmm.fastkeybinder.client.FastKeyBinderModMenuApi"
+    ]
+  },
+  "mixins": [
+    "dmm_fastkeybinder.mixins.json",
+    {
+      "config": "dmm_fastkeybinder.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

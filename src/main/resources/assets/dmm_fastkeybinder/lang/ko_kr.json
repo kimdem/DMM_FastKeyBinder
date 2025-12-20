@@ -1,0 +1,17 @@
+{
+  "text.autoconfig.dmm_fastkeybinder.title": "DMM Fast Key Binder 설정",
+  
+  "text.autoconfig.dmm_fastkeybinder.option.keyBindings": "키 바인딩 목록",
+  "text.autoconfig.dmm_fastkeybinder.option.keyBindings.@Tooltip": "사용자 정의 단축키를 관리합니다.",
+  
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry": "키 바인딩 설정",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.name": "이름",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.command": "명령어",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.command.@Tooltip[0]": "실행할 명령어를 입력하세요. (예: gamemode creative)",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.command.@Tooltip[1]": "앞에 '/'는 있어도 되고 없어도 됩니다.",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.key": "작동 키",
+  "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.active": "활성화",
+
+  "key.dmm_fastkeybinder.open_config": "Fast Key Binder 설정창 열기",
+  "category.dmm_fastkeybinder": "DMM Fast Key Binder"
+}
