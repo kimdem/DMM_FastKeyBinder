@@ -100,7 +100,7 @@ classDiagram
 ---
 
 ### 빌드 및 설치 방법
-- Release에서 JAR파일만 다운로드 받으신 분들은 .minecraft/mods 파일내부에 5번 필수 모드들과 함께 넣어주시길 바랍니다.
+- Release에서 JAR파일만 다운로드 받으신 분들은 .minecraft/mods 파일내부에 4번 필수 모드들과 함께 넣어주시길 바랍니다.
 - 반드시 Fabric 환경에서 적용하셔야 합니다.
 
 1. **빌드 (Build)**
@@ -113,7 +113,7 @@ classDiagram
 3. **설치 (Install)**
    - 마인크래프트 설치 경로의 mods 폴더에 .jar 파일을 복사합니다.
 
-5. **필수 의존성 (Dependencies)**
+4. **필수 의존성 (Dependencies)**
    - <Strong style="color:tomato">다음 모드들이 함께 설치되어 있어야 정상 작동합니다</Strong>
      - [Fabric API](https://modrinth.com/mod/fabric-api) [1.21.4] Fabric API 0.119.4+1.21.4
      - [Cloth Config API](https://modrinth.com/mod/cloth-config) [Fabric 1.21.4] v17.0.142
