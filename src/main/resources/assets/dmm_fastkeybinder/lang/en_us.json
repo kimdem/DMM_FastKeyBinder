@@ -13,5 +13,8 @@
   "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.active": "Active",
 
   "key.dmm_fastkeybinder.open_config": "Open Config Screen",
-  "category.dmm_fastkeybinder": "DMM Fast Key Binder"
+  "category.dmm_fastkeybinder": "DMM Fast Key Binder",
+
+  "message.dmm_fastkeybinder.warning.duplicate": "§c[Warning] §fDuplicate key with '%s'!",
+  "message.dmm_fastkeybinder.warning.conflict": "§6[Caution] §fConflicts with vanilla '%s' key."
 }
