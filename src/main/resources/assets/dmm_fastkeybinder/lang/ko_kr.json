@@ -13,5 +13,8 @@
   "text.autoconfig.dmm_fastkeybinder.option.KeyBindingEntry.active": "활성화",
 
   "key.dmm_fastkeybinder.open_config": "Fast Key Binder 설정창 열기",
-  "category.dmm_fastkeybinder": "DMM Fast Key Binder"
+  "category.dmm_fastkeybinder": "DMM Fast Key Binder",
+
+  "message.dmm_fastkeybinder.warning.duplicate": "§c[경고] §f'%s'와 키가 중복됩니다!",
+  "message.dmm_fastkeybinder.warning.conflict": "§6[주의] §f기존 '%s' 키와 겹칩니다."
 }
