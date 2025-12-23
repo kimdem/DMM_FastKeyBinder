@@ -20,6 +20,51 @@ It eliminates the hassle of opening the chat window and typing commands in third
 
 ---
 
+<details>
+<summary><strong>How to Use (Images) - Click to expand</strong></summary>
+
+#### Set Config Shortcut
+![Settings](ReadMeImage/1.png)
+> In Minecraft's Key Binds settings, you can assign a shortcut to open the mod's dedicated configuration screen.
+
+<br></br>
+
+#### Add Binding
+![Add Binding](ReadMeImage/2.png)
+> Use the 'Add New' button to reveal the configuration area for new bindings in the list below.
+
+<br></br>
+
+#### Register Binding
+![Register](ReadMeImage/3.png)
+> Assign a name, enter the command, and click the key button to set your trigger key.  
+> **Shift, Alt, and Ctrl** combination keys are supported.
+
+<br></br>
+
+#### Usage
+![Usage](ReadMeImage/4.png)
+> Press the bound key to instantly execute your command.
+
+<br></br>
+
+#### Duplicate Prevention
+![Duplicate](ReadMeImage/5.png)
+![Duplicate2](ReadMeImage/6.png)
+> If you try to save a duplicate key binding, a **warning notification** will appear as shown above.  
+> The key is still saved, so please check and manage your duplicate bindings carefully.
+
+<br></br>
+
+#### Vanilla Key Conflict
+![Vanilla](ReadMeImage/7.png)
+> If your key conflicts with a vanilla Minecraft key binding, the mod will inform you exactly which key it conflicts with.
+
+**Enjoy Minecraft!**
+</details>
+
+---
+
 ### Build & Installation
 - If you only downloaded the JAR file from Releases, please place it in the `.minecraft/mods` folder along with the required dependencies listed in step 4.
 - Must be applied in a Fabric environment.
